@@ -11,8 +11,4 @@ public class App
         System.out.println( "Hello World!" );
     }
     
-    public static void metodo_dev10() {
-    	
-    	//TO DO
-    }
 }
