@@ -10,5 +10,14 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+<<<<<<< HEAD
 
+=======
+    
+  //TO DO
+  //TO DO AGAIN
+
+  //CHANGE FROM sprint-JHA
+ 
+>>>>>>> 020675ebca27c553458f6154f067d67672457fb3
 }
